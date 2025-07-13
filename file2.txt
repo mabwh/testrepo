@@ -1,3 +1,4 @@
 first line in file2
 I will make a conflict here
 second line in file2
+third line in file2
